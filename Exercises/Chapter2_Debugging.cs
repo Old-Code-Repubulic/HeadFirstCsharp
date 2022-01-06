@@ -1,4 +1,5 @@
-﻿using System;
+﻿ls
+using System;
 
 namespace Ch._2_coding
 {
@@ -20,6 +21,24 @@ namespace Ch._2_coding
                 }
             }
 
+            TrySomeLoops();
+
         }
+
+        private static void TrySomeLoops()
+        {
+            int count = 0;
+            while (count < 10)
+            {
+                count = count + 1;
+            }
+            for (int i = 0; i < 5; i++)
+            {
+                count = count - 1;
+            }
+            Console.WriteLine("The answer is " + count);
+        }
+
     }
 }
+
