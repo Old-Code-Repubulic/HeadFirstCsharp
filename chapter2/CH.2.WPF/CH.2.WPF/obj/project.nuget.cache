@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xz5QfJExoIAXcYZOjnbm96iMY9tCgaE00v+oo4NEJAeIXElQXb2G4i/VRZKoLWUHTDReCkN1Id6k5wc7MEX9iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josep\\Documents\\Code\\HeadFirstC-\\chapter2\\CH.2.WPF\\CH.2.WPF\\CH.2.WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
